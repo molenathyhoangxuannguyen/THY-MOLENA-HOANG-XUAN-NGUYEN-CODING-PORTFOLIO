@@ -10,7 +10,7 @@ Sections | Projects
 [Java](#java) | Tic-tac-toe
 [JavaScript](#javascript) | Crazy Keyboard, Simple Alarm Clock, Hexadecimal Color Game
 
-### ***Data Science / Machine-Learning / Deep-Learning***
+### ***Data Science / Machine Learning / Deep Learning***
 [English as a Second Language Assistant](https://github.com/molenathyhoangxuannguyen/English_as_a_Second_Language_Assistant) <br />
 [Hypergraph Combinatorial Game](https://github.com/molenathyhoangxuannguyen/Hypergraph_Combinatorial_Game) <br />
 
