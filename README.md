@@ -2,7 +2,7 @@
 
 Topics/ Fields | Projects
 ---------- | --------
-Portfolio | <li> [***My personal website***](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) </li>
+Portfolio | [***My personal website***](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) <li/>
 Data Science / Machine Learning / Deep Learning | <li> [***English as a Second Language Assistant***](https://molenathyhoangxuannguyen.github.io/English_as_a_Second_Language_Assistant/) </li> <li> [***Hypergraph Combinatorial Game***](https://github.com/molenathyhoangxuannguyen/Hypergraph_Combinatorial_Game) </li> <li> [***Shapes Assistant***](https://github.com/molenathyhoangxuannguyen/Shapes_Assistant) <br/>
 [Kaggle Four Shapes Classification Challenge](https://github.com/molenathyhoangxuannguyen/Kaggle-Four-Shapes-Classification-Challenge) <li/>
 
