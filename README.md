@@ -1,8 +1,8 @@
 # A summary of all of Thy (Molena) Hoang-Xuan Nguyen's projects on Github
 
-Sections | Projects
+Topics/ Fields | Projects
 ---------- | --------
-[Portfolio](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) | ***Portfolio***
+[Portfolio](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) | ***My personal website***
 [Data Science / Machine Learning / Deep Learning](#data-science-machine-learning-deep-learning) | ***English as a Second Language Assistant, Hypergraph Combinatorial Game, Shapes Assistant***, Kaggle Four Shapes Classification Challenge, Detecting Fake News, Road Lane Line Detection, Sentiment Analysis, Detecting Parkinson's Disease, Color Detection with Python, The first Convolutional Neural Network Program from Scratch, Convolutional Neural Network Project on Shapes, Shapes Classification, The first Artificial Neural Network Program from Scratch, The second Artificial Neural Network Program from Scratch
 [Data Structures](#data-structures) | Data Structures
 [Software Design & Implement with Python](#software-design-and-implement-with-python) | ***R...***
