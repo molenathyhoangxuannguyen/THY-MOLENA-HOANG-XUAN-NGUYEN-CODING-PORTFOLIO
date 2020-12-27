@@ -3,7 +3,7 @@
 Topics/ Fields | Projects
 ---------- | --------
 Portfolio | <li> [***My personal website***](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) </li>
-Data Science / Machine Learning / Deep Learning | <li> [***English as a Second Language Assistant***(https://github.com/molenathyhoangxuannguyen/English_as_a_Second_Language_Assistant)</li> <li> ***Hypergraph Combinatorial Game*** </li> <li> ***Shapes Assistant*** </li> <li>Kaggle Four Shapes Classification Challenge </li> <li> Detecting Fake News </li> Road Lane Line Detection</li> Sentiment Analysis </li> Detecting Parkinson's Disease </li> Color Detection with Python </li> The first Convolutional Neural Network Program from Scratch </li> Convolutional Neural Network Project on Shapes </li> Shapes Classification </li> The first Artificial Neural Network Program from Scratch </li> The second Artificial Neural Network Program from Scratch </li>
+Data Science / Machine Learning / Deep Learning | <li> [***English as a Second Language Assistant***](https://github.com/molenathyhoangxuannguyen/English_as_a_Second_Language_Assistant)</li> <li> [***Hypergraph Combinatorial Game***](https://github.com/molenathyhoangxuannguyen/Hypergraph_Combinatorial_Game) </li> <li> ***Shapes Assistant*** </li> <li>Kaggle Four Shapes Classification Challenge </li> <li> Detecting Fake News </li> Road Lane Line Detection</li> Sentiment Analysis </li> Detecting Parkinson's Disease </li> Color Detection with Python </li> The first Convolutional Neural Network Program from Scratch </li> Convolutional Neural Network Project on Shapes </li> Shapes Classification </li> The first Artificial Neural Network Program from Scratch </li> The second Artificial Neural Network Program from Scratch </li>
 [Data Structures](#data-structures) | Data Structures
 [Software Design & Implement with Python](#software-design-and-implement-with-python) | ***R...***
 [Android/Mobile Apps](#apps) | abc
@@ -12,7 +12,7 @@ Data Science / Machine Learning / Deep Learning | <li> [***English as a Second L
 
 
 
-[Hypergraph Combinatorial Game](https://github.com/molenathyhoangxuannguyen/Hypergraph_Combinatorial_Game) <br />
+
 [Shapes Assistant](https://github.com/molenathyhoangxuannguyen/Shapes_Assistant) <br />
 [Kaggle Four Shapes Classification Challenge](https://github.com/molenathyhoangxuannguyen/Kaggle-Four-Shapes-Classification-Challenge) <br />
 [Detecting Fake News](https://github.com/molenathyhoangxuannguyen/Detecting-Fake-News) <br />
