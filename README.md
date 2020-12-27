@@ -15,12 +15,16 @@ Sections | Projects
 [Hypergraph Combinatorial Game](https://github.com/molenathyhoangxuannguyen/Hypergraph_Combinatorial_Game) <br />
 [Shapes Assistant](https://github.com/molenathyhoangxuannguyen/Shapes_Assistant) <br />
 [Kaggle Four Shapes Classification Challenge](https://github.com/molenathyhoangxuannguyen/Kaggle-Four-Shapes-Classification-Challenge) <br />
+[Detecting Fake News](https://github.com/molenathyhoangxuannguyen/Detecting-Fake-News) <br />
+[Road Lane Line Detection](https://github.com/molenathyhoangxuannguyen/Road-Lane-Line-Detection) <br />
+[Sentiment Analysis](https://github.com/molenathyhoangxuannguyen/Sentiment-Analysis). Programming language: R. <br /> 
+[Detecting Parkinson's Disease](https://github.com/molenathyhoangxuannguyen/Detecting-Parkinsons-Disease)
+[Color Detection with Python](https://github.com/molenathyhoangxuannguyen/Color-Detection-with-Python)
+[The first Convolutional Neural Network Program From Scratch](https://github.com/molenathyhoangxuannguyen/The-first-Convolutional-Neural-Network-Program-From-Scratch) <br />
 [Convolutional Neural Network Project on Shapes](https://github.com/molenathyhoangxuannguyen/Convolutional-Neural-Network-Project-on-Shapes) <br />
 [Shapes Classification](https://github.com/molenathyhoangxuannguyen/Shapes-Classification) <br />
-
-
-
-
+[The first Artificial Neural Network Program From Scratch](https://github.com/molenathyhoangxuannguyen/The-first-Artificial-Neural-Network-Program-From-Scratch) <br />
+[The second Artificial Neural Network Program From Scratch](https://github.com/molenathyhoangxuannguyen/The-second-Artificial-Neural-Network-Program-From-Scratch) <br />
 
 
 ### ***Data structures***
