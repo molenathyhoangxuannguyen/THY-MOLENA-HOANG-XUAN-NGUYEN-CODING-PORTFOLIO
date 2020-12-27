@@ -2,7 +2,7 @@
 
 Sections | Projects
 ---------- | --------
-[Portfolio] (https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) | ***Portfolio***
+[Portfolio](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) | ***Portfolio***
 [Data Structures](#data-structures) | Data Structures
 [Software Design & Implement with Python](#software-design-and-implement-with-python) | ***R...***
 [Android/Mobile Apps](#apps) | abc
