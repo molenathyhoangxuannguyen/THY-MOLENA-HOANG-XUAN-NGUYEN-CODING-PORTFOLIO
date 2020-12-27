@@ -3,7 +3,7 @@
 Sections | Projects
 ---------- | --------
 [Portfolio](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) | ***Portfolio***
-[Data Science / Machine Learning / Deep Learning](#data-science-machine-learning-deep-learning) | ***English as a Second Language Assistant, Hypergraph Combinatorial Game, Shapes Assistant*** , Kaggle Four Shapes Classification Challenge, Convolutional Neural Network Project on Shapes, Shapes Classification
+[Data Science / Machine Learning / Deep Learning](#data-science-machine-learning-deep-learning) | ***English as a Second Language Assistant, Hypergraph Combinatorial Game, Shapes Assistant***, Kaggle Four Shapes Classification Challenge, Detecting Fake News, Road Lane Line Detection, Sentiment Analysis, Detecting Parkinson's Disease, Color Detection with Python, The first Convolutional Neural Network Program from Scratch, Convolutional Neural Network Project on Shapes, Shapes Classification, The first Artificial Neural Network Program from Scratch, The second Artificial Neural Network Program from Scratch
 [Data Structures](#data-structures) | Data Structures
 [Software Design & Implement with Python](#software-design-and-implement-with-python) | ***R...***
 [Android/Mobile Apps](#apps) | abc
@@ -20,11 +20,11 @@ Sections | Projects
 [Sentiment Analysis](https://github.com/molenathyhoangxuannguyen/Sentiment-Analysis). Programming language: R. <br /> 
 [Detecting Parkinson's Disease](https://github.com/molenathyhoangxuannguyen/Detecting-Parkinsons-Disease)
 [Color Detection with Python](https://github.com/molenathyhoangxuannguyen/Color-Detection-with-Python)
-[The first Convolutional Neural Network Program From Scratch](https://github.com/molenathyhoangxuannguyen/The-first-Convolutional-Neural-Network-Program-From-Scratch) <br />
+[The first Convolutional Neural Network Program from Scratch](https://github.com/molenathyhoangxuannguyen/The-first-Convolutional-Neural-Network-Program-From-Scratch) <br />
 [Convolutional Neural Network Project on Shapes](https://github.com/molenathyhoangxuannguyen/Convolutional-Neural-Network-Project-on-Shapes) <br />
 [Shapes Classification](https://github.com/molenathyhoangxuannguyen/Shapes-Classification) <br />
-[The first Artificial Neural Network Program From Scratch](https://github.com/molenathyhoangxuannguyen/The-first-Artificial-Neural-Network-Program-From-Scratch) <br />
-[The second Artificial Neural Network Program From Scratch](https://github.com/molenathyhoangxuannguyen/The-second-Artificial-Neural-Network-Program-From-Scratch) <br />
+[The first Artificial Neural Network Program from Scratch](https://github.com/molenathyhoangxuannguyen/The-first-Artificial-Neural-Network-Program-From-Scratch) <br />
+[The second Artificial Neural Network Program from Scratch](https://github.com/molenathyhoangxuannguyen/The-second-Artificial-Neural-Network-Program-From-Scratch) <br />
 
 
 ### ***Data structures***
