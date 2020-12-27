@@ -3,14 +3,14 @@
 Sections | Projects
 ---------- | --------
 [Portfolio](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) | ***Portfolio***
-[Data Science/ Machine Learning / Deep Learning](#data-science-/-machine-learning-/-deep-learning) | ***English as a Second Language Assistant, Hypergraph Combinatorial Game,...***
+[Data Science / Machine Learning / Deep Learning](#data-science-machine-learning-deep-learning) | ***English as a Second Language Assistant, Hypergraph Combinatorial Game,...***
 [Data Structures](#data-structures) | Data Structures
 [Software Design & Implement with Python](#software-design-and-implement-with-python) | ***R...***
 [Android/Mobile Apps](#apps) | abc
 [Java](#java) | Tic-tac-toe
 [JavaScript](#javascript) | Crazy Keyboard, Simple Alarm Clock, Hexadecimal Color Game
 
-### ***Data Science / Machine Learning / Deep Learning***
+### ***Data Science / Machine-Learning / Deep-Learning***
 [English as a Second Language Assistant](https://github.com/molenathyhoangxuannguyen/English_as_a_Second_Language_Assistant) <br />
 [Hypergraph Combinatorial Game](https://github.com/molenathyhoangxuannguyen/Hypergraph_Combinatorial_Game) <br />
 
