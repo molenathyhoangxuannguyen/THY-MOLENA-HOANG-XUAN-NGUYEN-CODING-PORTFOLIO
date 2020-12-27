@@ -3,9 +3,7 @@
 Topics/ Fields | Projects
 ---------- | --------
 [Portfolio](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) | <li> ***My personal website*** </li>
-[Data Science / Machine Learning / Deep Learning](#data-science-machine-learning-deep-learning) | <li> ***English as a Second Language Assistant*** </li>
-<li> ***Hypergraph Combinatorial Game*** </li>
-<li> ***Shapes Assistant*** </li> 
+[Data Science / Machine Learning / Deep Learning](#data-science-machine-learning-deep-learning) | <li> ***English as a Second Language Assistant*** </li> <li> ***Hypergraph Combinatorial Game*** </li> <li> ***Shapes Assistant*** </li> 
 Kaggle Four Shapes Classification Challenge, Detecting Fake News, Road Lane Line Detection, Sentiment Analysis, Detecting Parkinson's Disease, Color Detection with Python, The first Convolutional Neural Network Program from Scratch, Convolutional Neural Network Project on Shapes, Shapes Classification, The first Artificial Neural Network Program from Scratch, The second Artificial Neural Network Program from Scratch
 [Data Structures](#data-structures) | Data Structures
 [Software Design & Implement with Python](#software-design-and-implement-with-python) | ***R...***
