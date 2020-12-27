@@ -1,4 +1,4 @@
-# A-summary-of-my-85-projects-on-Github
+# A summary of all of Thy (Molena) Hoang-Xuan Nguyen's projects on Github
 
 Sections | Projects
 ---------- | --------
