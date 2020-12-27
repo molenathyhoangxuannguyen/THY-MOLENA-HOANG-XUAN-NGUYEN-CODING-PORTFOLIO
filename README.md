@@ -11,7 +11,7 @@ Sections | Projects
 [JavaScript](#javascript) | Crazy Keyboard, Simple Alarm Clock, Hexadecimal Color Game
 
 ### ***My portfolio***
-Current: [Portfolio](https://www.khoa165.com/) <br />
+Current: [Portfolio](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) <br />
 
 ### ***Data structures***
 [Data Structures](https://github.com/khoa165/data-structures): Java. <br />
