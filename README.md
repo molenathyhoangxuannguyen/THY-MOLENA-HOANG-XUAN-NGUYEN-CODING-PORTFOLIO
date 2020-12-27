@@ -2,7 +2,7 @@
 
 Sections | Projects
 ---------- | --------
-[Portfolio](#my-portfolio) | ***Portfolio***
+[Portfolio] (https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) | ***Portfolio***
 [Data Structures](#data-structures) | Data Structures
 [Software Design & Implement with Python](#software-design-and-implement-with-python) | ***R...***
 [Android/Mobile Apps](#apps) | abc
@@ -10,15 +10,12 @@ Sections | Projects
 [Java](#java) | Tic-tac-toe
 [JavaScript](#javascript) | Crazy Keyboard, Simple Alarm Clock, Hexadecimal Color Game
 
-### ***My portfolio***
-Current: [Portfolio](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) <br />
-
 ### ***Data structures***
 [Data Structures](https://github.com/khoa165/data-structures): Java. <br />
 
 ### ***Software Design And Implement with Python***
-[Sokoban Game](https://github.com/khoa165/sokoban-themes): Ruby, Sinatra, HTML, CSS, JavaScript, Bootstrap. <br />
-[Snake Game](https://github.com/khoa165/snake-game): Ruby + Gosu graphic library. <br />
+[Oh, the Places You'll Go!](https://github.com/molenathyhoangxuannguyen/Oh-the-Places-You-will-Go) <br />
+[Making Boustrophedon](https://github.com/molenathyhoangxuannguyen/Making-boustrophedon) <br />
 [Basic Todo List](https://github.com/khoa165/personalized-todo-list): Ruby, Sinatra, HTML, CSS, JavaScript, Bootstrap. <br />
 [The Big Bang Theory Info](https://github.com/khoa165/the-big-bang-theory): Ruby, JSON. <br />
 [Nobel Laureates Info](https://github.com/khoa165/nobel-laureates): Ruby, JSON. <br />
