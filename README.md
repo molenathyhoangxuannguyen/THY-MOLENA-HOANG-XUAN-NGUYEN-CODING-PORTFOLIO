@@ -16,7 +16,7 @@ Current: [Portfolio](https://www.khoa165.com/) <br />
 ### ***Data structures***
 [Data Structures](https://github.com/khoa165/data-structures): Java. <br />
 
-### ***Software Design & Implement with Python***
+### ***Python***
 [Sokoban Game](https://github.com/khoa165/sokoban-themes): Ruby, Sinatra, HTML, CSS, JavaScript, Bootstrap. <br />
 [Snake Game](https://github.com/khoa165/snake-game): Ruby + Gosu graphic library. <br />
 [Basic Todo List](https://github.com/khoa165/personalized-todo-list): Ruby, Sinatra, HTML, CSS, JavaScript, Bootstrap. <br />
