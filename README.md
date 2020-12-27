@@ -3,7 +3,7 @@
 Sections | Projects
 ---------- | --------
 [Portfolio](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/) | ***Portfolio***
-[Data Science / Machine Learning / Deep Learning](#data-science-machine-learning-deep-learning) | ***English as a Second Language Assistant, Hypergraph Combinatorial Game, Shapes Assistant*** , Kaggle Four Shapes Classification Challenge
+[Data Science / Machine Learning / Deep Learning](#data-science-machine-learning-deep-learning) | ***English as a Second Language Assistant, Hypergraph Combinatorial Game, Shapes Assistant*** , Kaggle Four Shapes Classification Challenge, Convolutional Neural Network Project Shape Classification, Shape Classification
 [Data Structures](#data-structures) | Data Structures
 [Software Design & Implement with Python](#software-design-and-implement-with-python) | ***R...***
 [Android/Mobile Apps](#apps) | abc
@@ -15,6 +15,11 @@ Sections | Projects
 [Hypergraph Combinatorial Game](https://github.com/molenathyhoangxuannguyen/Hypergraph_Combinatorial_Game) <br />
 [Shapes Assistant](https://github.com/molenathyhoangxuannguyen/Shapes_Assistant) <br />
 [Kaggle Four Shapes Classification Challenge](https://github.com/molenathyhoangxuannguyen/Kaggle-Four-Shapes-Classification-Challenge) <br />
+[Convolutional Neural Network Project Shape Classification](https://github.com/molenathyhoangxuannguyen/Convolutional-Neural-Network-Project-Shape-Classification) <br />
+[Shape Classification](https://github.com/molenathyhoangxuannguyen/Shape-Classification) <br />
+
+
+
 
 
 ### ***Data structures***
