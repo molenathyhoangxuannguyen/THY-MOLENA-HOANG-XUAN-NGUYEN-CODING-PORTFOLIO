@@ -1,5 +1,7 @@
 # Thy (Molena) Hoang-Xuan Nguyen's PORTFOLIO
 
+This is a summary of 85 projects of Thy (Molena) Hoang-Xuan Nguyen on Github.
+
 Topics/ Fields | Projects
 ---------- | --------
 Portfolio |<li/>[***My personal website***](https://molenathyhoangxuannguyen.github.io/molenathyhoangxuannguyen/)
