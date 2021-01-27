@@ -1,4 +1,4 @@
-# Thy (Molena) Hoang-Xuan Nguyen's PORTFOLIO
+# Thy (Molena) Hoang-Xuan Nguyen's CODING PORTFOLIO
 
 This is a summary of 85 projects of Thy (Molena) Hoang-Xuan Nguyen on Github.
 
