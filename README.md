@@ -1,6 +1,6 @@
-# Thy (Molena) Hoang-Xuan Nguyen's CODING PORTFOLIO
+# Molena Nguyen's CODING PORTFOLIO
 
-This is a summary of 85 projects of Thy (Molena) Hoang-Xuan Nguyen on Github.
+This is a summary of 85 projects of Molena Nguyen on Github.
 
 Topics/ Fields | Projects
 ---------- | --------
